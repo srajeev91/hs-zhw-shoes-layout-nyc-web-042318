@@ -50,24 +50,3 @@ section {
   padding: 20px;
 }
 
-section {
-  margin: 1%;
-  padding: 20px;
-}
-.col-1 {
-  width: 31.333%;
-  float: left;
-}
-.col-2 {
-  width: 62.666%;
-  float: left;
-}
-.col-3 {
-  float: left;
-}
-[class*="col-"]{
-  margin-left: 1%
-}
-.first {
-  margin-left: 0;
-}
