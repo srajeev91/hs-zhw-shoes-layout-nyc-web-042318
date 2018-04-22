@@ -23,6 +23,19 @@
 }
 
 /* Posititoning Classes */
+section {
+  margin-top: 2%;
+  padding: 20px;
+}
+
+[class*="col-"] {
+  margin-left: 2%
+}
+
+.first {
+  margin-left: 0;
+}
+
 .col-1 {
   float: left;
   width: 32%;
@@ -37,16 +50,5 @@
   float: left;
 }
 
-[class*="col-"] {
-  margin-left: 2%
-}
 
-.first {
-  margin-left: 0;
-}
-
-section {
-  margin-top: 2%;
-  padding: 20px;
-}
 
