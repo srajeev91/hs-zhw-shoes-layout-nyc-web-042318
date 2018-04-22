@@ -23,6 +23,9 @@
 }
 
 /* Posititoning Classes */
+#featured {
+  float: left;
+}
 
 #archive {
   float: right;
